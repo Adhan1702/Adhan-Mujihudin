@@ -1,0 +1,9 @@
+Algoritma mencuci piring
+1. Ambil piring yang kotor 
+2. Rendam piring dalam air 
+3. Ambil spons
+4. Tuang sabun cuci piring ke dalam spons
+5. Gosok spons sampai keluar busa
+6. Gosok piring dengan spons 
+7. Bilas piring dengan air mengalir 
+Selesai
